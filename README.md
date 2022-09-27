@@ -9,13 +9,21 @@ Recommender systems are really critical in some industries as they can generate 
 
 ## Conclusions
 Wild Animus is the best-selling book
+
 Author Agatha Christie, William Shakespeare and Stephen King wrote most of the books
+
 Harlequin publication published the most books
+
 More than 50% readers are from USA
+
 Book-Ratings are negatively distributed with median rating of 8.
+
 Root mean squared error of model SVD is 0.31 and mean absolute error is 0.21
+
 Root mean squared error of model NMF is 0.34 and mean absolute error is 0.24
+
 Root mean squared error of model Slope One is 0.39 and mean absolute error is 0.27
+
 SVD++ is the best recommendation model with root mean squared error of 0.30 and mean absolute error of 0.20
 
 
