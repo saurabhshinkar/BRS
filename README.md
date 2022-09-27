@@ -1,1 +1,1 @@
-# BRS
+# Book Recommendation System
