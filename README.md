@@ -9,6 +9,31 @@ Several factors such as low bike rent, increase in capital investments,introduct
 
 Keywords: Bike-Sharing, Data Mining, Predictive Analysis, Linear Regression, Machine Learning.
 
+## Introduction
+Bike sharing system demand nowadays is increasing in proportional manners globally. This system has gained a lot of attention with its cost effective system and easy to use nature. This system has already attracted a huge customer base globally like in South Korea, São Paulo ,China and Australia. Bike sharing system generally rents bikes on an hour, day and month basis and is generally based on static pricing inclusive of hour,days or month. Because of its affordability and easy renting system anyone can commute on arrival. According to our problem our main aim is to build a predictive model so as to find the number of bikes rented based on the given dataset.
+
+## Problem Description:
+Currently Rental bikes are introduced in many urban cities for the enhancement of mobility comfort. It is important to make the rental bike available and accessible to the public at the right time as it lessens the waiting time. Eventually, providing the city with a stable supply of rental bikes becomes a major concern. The crucial part is the prediction of bike count required at each hour for the stable supply of rental bikes.
+
+### Data Description:
+The dataset contains weather information (Temperature, Humidity, Windspeed, Visibility, Dewpoint, Solar radiation, Snowfall, Rainfall), the number of bikes rented per hour and date information.
+
+#### Attribute Information:
+- Date : year-month-day
+- Rented Bike count - Count of bikes rented at each hour
+- Hour - Hour of he day
+- Temperature-Temperature in Celsius
+- Humidity - %
+- Windspeed - m/s
+- Visibility - 10m
+- Dew point temperature - Celsius
+- Solar radiation - MJ/m2
+- Rainfall - mm
+- Snowfall - cm
+- Seasons - Winter, Spring, Summer, Autumn
+- Holiday - Holiday/No holiday
+- Functional Day - NoFunc(Non Functional Hours), Fun(Functional hours)
+
 ## Conclusions
 Wild Animus is the best-selling book
 
@@ -28,4 +53,8 @@ Root mean squared error of model Slope One is 0.39 and mean absolute error is 
 
 SVD++ is the best recommendation model with root mean squared error of 0.30 and mean absolute error of 0.20
 
+## References
+1. GeekforGeeks
+2. Kaggle
+3. Analytics Vidya
 
